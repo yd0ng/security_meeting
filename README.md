@@ -17,6 +17,9 @@ PPT or PDF in security_meeting
 * 吕毅-信息安全的价值落地和趋势
 * 屈波-检测来自web的威胁
 * 薛锋-建立全方位的威胁监控
+* 郑聿铭-智能驱动的安全协调和自动相应（SOAR）
+* Aleksandr-Analysis_of_Cobalt_attacks
+* 吴迪-基于开放工具和威胁情报的EDR
 
 ## 安世佳第26期沙龙
 
@@ -24,3 +27,4 @@ PPT or PDF in security_meeting
 * 林鹏-企业上云后的安全建设思考
 * 张玉山-互联网行业网络安全典型场景案例分享
 * 顾彬-可测量的安全为企业数字化转型
+* Iuwikes-业务逻辑安全的攻防思考
